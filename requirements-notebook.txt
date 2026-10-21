@@ -1,0 +1,5 @@
+-r requirements.txt
+jupyterlab>=4,<5
+matplotlib>=3.8,<4
+geopandas>=1,<2
+folium>=0.16,<1
